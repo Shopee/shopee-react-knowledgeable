@@ -45,10 +45,18 @@ See here for an example of a lightning talk: Andres Suarez - [Moving Fast with N
 
 **Cool, how do I ⚡️ lighten?**
 
-You fill up the form on [this page](./call-for-lightnings.md) by [creating a merge request for `call-for-lightning`](https://git.garena.com/shopee/mall-fe/fancy-sharing/merge_requests?label_name%5B%5D=call-for-lightning). Once the schedule is confirmed, we'll move that to the monthly roster, get prepared :)
+You fill up the form on [this page](./call-for-lightnings.md) by [creating a merge request for call-for-lightning](https://git.garena.com/shopee/mall-fe/fancy-sharing/merge_requests?label_name%5B%5D=call-for-lightning). Once the schedule is confirmed, we'll move that to the monthly roster, get prepared :)
 
 - New joiners each month will automatically be enrolled for next month's roster
 - Open sign-ups: by the Friday one week before each week's sharing.
 - Lucky draws to fill 2 lightning talks
 
 **Before You Speak**: Let's pre-⚡️ and do a dry-run by the Monday before your sharing slot
+
+### Featured Talks
+
+Time: ~30 mins
+
+#### Who will talk 🌚 featured?
+
+Let's keep it simple now. Sign up here.
