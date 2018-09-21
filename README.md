@@ -2,6 +2,13 @@
 
 > To share knowledge and have fun.
 
+**Table of Contents**
+
+- [Home](#about)
+- [Sign Up for Lightning Talks](./call-for-lightnings.md)
+- [Sign Up for Featured Talks](./call-for-featured.md)
+- [Resources](./resources.md)
+
 ## About
 
 Time:
