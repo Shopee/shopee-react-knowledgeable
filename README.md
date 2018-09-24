@@ -5,8 +5,7 @@
 **Table of Contents**
 
 - [Home](#about)
-- [Sign Up for Lightning Talks](./call-for-lightnings.md)
-- [Sign Up for Featured Talks](./call-for-featured.md)
+- [Sign Up for Talks](./call-for-papers.md)
 - [Resources](./resources.md)
 
 ## About
@@ -66,4 +65,4 @@ Time: ~30 mins
 
 #### Who will talk 🌚 featured?
 
-Let's keep it simple now. Sign up here.
+Let's keep it simple now. Sign up [here](./call-for-papers.md).
