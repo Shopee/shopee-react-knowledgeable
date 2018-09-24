@@ -11,3 +11,4 @@ For video options, please indicate one of the following:
 |      | Speaker  | Title          | Notes                        | Ready by | Video                       |
 | :--: | :------- | :------------- | :--------------------------- | :------- | :-------------------------- |
 | e.g. | Einstein | How Time Flies | Tells us more about your ⚡️ | Oct 1    | ok to publish, i'm einstein |
+|      | t1ger    | Y Combinator   | Some ancient hacker trick    | Oct 1    | don't plublish :see_no_evil:|     |
