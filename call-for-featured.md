@@ -1,6 +1,6 @@
 # Call for ️🌚 Featured
 
-Please proceed to create a merge request and add your topic in the table below. Once scheduled, we'll move your row to the agenda. Please proceed to create a merge request and add your topic in the table below. Once scheduled, we'll move your row to the agenda.
+Please add your topic in the table below. Once scheduled, we'll move your row to the agenda.
 
 For video options, please indicate one of the following:
 
