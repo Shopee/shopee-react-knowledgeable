@@ -12,3 +12,4 @@ For video options, please indicate one of the following:
 | :--: | :----------- | :------------- | :------------------------------- | :------- | :-------------------------- |
 | e.g. | Einstein     | How Time Flies | Tells us more about your ⚡️     | Oct 1    | ok to publish, i'm einstein |
 |      | Ten Zhi Yang | Pecha Kucha    | presentation format for ⚡️talks | Oct 1    | ok to publish               |  |
+asfd
