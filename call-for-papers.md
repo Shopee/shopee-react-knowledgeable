@@ -12,3 +12,4 @@ For video options, please indicate one of the following:
 | :--: | :------- | :----------- | :--------------------- | :----------------------------- | :------- | :--------------------------- ||
 |  🌚     | t1ger    | Y Combinator                     | Some ancient hacker trick      | Oct 1    | don't plublish :see_no_evil: | 
 | ⚡️ | Ten Zhi Yang | Pecha Kucha |  presentation format for ⚡️talks | Oct 1 | ok to publish | 
+| ⚡️ | tanlh | #git-good | Let's share our favourite git commands and get [#git-good](https://mattermost.garenanow.com/sea/channels/git-good) | Oct 1 |  🦍 |
