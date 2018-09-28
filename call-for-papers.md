@@ -17,6 +17,7 @@ For video options, please indicate one of the following:
 |   ⚡️    | tanlh        | #git-good    | Let's share our favourite git commands and get [#git-good](https://mattermost.garenanow.com/sea/channels/git-good) | Oct 1    | 🦍                           |
 |   ⚡️    | Ken Lee      | Shazam?      | How in the world does SHA⚡️AM know what you are listening to?                                                     | ?        | 🦍                           |
 |    🌚    | wangz        | (TBA)        | Officially introduce Manta Style and a new way to set up frontend mockup process                                   | Oct 30   | 🦍                           |
+|   ⚡️    | Jin Lei      | Firebase      | Let's build a simple chatroom with Firebase                                                                        | Oct 19 | 🦍                           |
 
 ## Suggest Topics
 
