@@ -17,7 +17,7 @@ Grand speaker Ten sharing a state-of-art way of doing a lightning talk in form o
 
 ### `#git-good`
 
-Master Lihau sharing his goodies on `git`.
+Li Hau sharing his daily `git` commands and hopes to inspire others to share too ❤️.
 
 ---
 
