@@ -20,6 +20,7 @@ For video options, please indicate one of the following:
 |    🌚    | wangz        | (TBA)        | Officially introduce Manta Style and a new way to set up frontend mockup process                                   | Oct 30   | 🦍                           |
 |   ⚡️    | Jin Lei      | Firebase      | Let's build a simple chatroom with Firebase                                                                        | Oct 19 | 🦍                           |
 |   🌚    | Chenchen     | Performance Budget | Let's take a look at the weight of our front end code and discuss some plans how we can improve our bundle size | Oct 30 | 🐒  don't plublish as this is internal code analysis |
+|   ⚡️    | Maxis        | NPM package cheat sheet | Best practices in baking a npm package from nothing to publishing 🎉                                     | Oct 19   | 🦍                         |
 
 ## Suggest Topics
 
