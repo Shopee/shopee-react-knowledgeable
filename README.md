@@ -50,7 +50,7 @@ See here for an example of a lightning talk: Andres Suarez - [Moving Fast with N
 
 **Cool, how do I ⚡️ lighten?**
 
-You fill up the form on [this page](./call-for-papers.md) by [creating a merge request](https://git.garena.com/shopee/mall-fe/react-knowledgeable/merge_requests?label_name%5B%5D=call-for-papers). Once the schedule is confirmed, we'll move that to the monthly roster, get prepared :)
+You fill up the form on [this page](./call-for-papers.md) by [creating a pull request](https://github.com/Shopee/react-knowledgeable/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aopen+sort%3Aupdated-desc+label%3Acall-for-papers). Once the schedule is confirmed, we'll move that to the monthly roster, get prepared :)
 
 - New joiners each month will automatically be enrolled for next month's roster
 - Open sign-ups: by the Friday one week before each week's sharing.
