@@ -10,14 +10,14 @@ For video options, please indicate one of the following:
 - 🐒 **video but do not publish to public channels**: I want to use the video for my own improvement on public speaking
 - 🦍 **ok to publish**: Of course if you feel your talk don't turn out well as expected we can alwasy revoke this. But otherwise Let's do this :)
 
-| 🌚 / ⚡️ | Speaker  | Title                   | Notes                                                                                                           | Ready by | Video                                               |
-| :------: | :------- | :---------------------- | :-------------------------------------------------------------------------------------------------------------- | :------- | :-------------------------------------------------- |
-|    🌚    | Rchard   | VS Code Extension       | Assistant tools for internationalization                                                                        | Oct 12   | don't plublish :see_no_evil:                        |
-|   ⚡️    | Ken Lee  | Shazam?                 | How in the world does SHA⚡️AM know what you are listening to?                                                  | ?        | 🦍                                                  |
-|    🌚    | wangz    | (TBA)                   | Officially introduce Manta Style and a new way to set up frontend mockup process                                | Oct 30   | 🦍                                                  |
-|   ⚡️    | Jin Lei  | Firebase                | Let's build a simple chatroom with Firebase                                                                     | Oct 19   | 🦍                                                  |
-|    🌚    | Chenchen | Performance Budget      | Let's take a look at the weight of our front end code and discuss some plans how we can improve our bundle size | Oct 30   | 🐒 don't plublish as this is internal code analysis |
-|   ⚡️    | Maxis    | NPM package cheat sheet | Best practices in baking a npm package from nothing to publishing 🎉                                            | Oct 19   | 🦍                                                  |
+| 🌚 / ⚡️ | Speaker     | Title                   | Notes                                                                                                           | Ready by | Video                                               |
+| :------: | :---------- | :---------------------- | :-------------------------------------------------------------------------------------------------------------- | :------- | :-------------------------------------------------- |
+|    🌚    | Xiaowei Xue | VS Code Extension       | Assistant tools for internationalization                                                                        | Oct 19   | don't plublish :see_no_evil:                        |
+|   ⚡️    | Ken Lee     | Shazam?                 | How in the world does SHA⚡️AM know what you are listening to?                                                  | ?        | 🦍                                                  |
+|    🌚    | wangz       | (TBA)                   | Officially introduce Manta Style and a new way to set up frontend mockup process                                | Oct 30   | 🦍                                                  |
+|   ⚡️    | Jin Lei     | Firebase                | Let's build a simple chatroom with Firebase                                                                     | Oct 19   | 🦍                                                  |
+|    🌚    | Chenchen    | Performance Budget      | Let's take a look at the weight of our front end code and discuss some plans how we can improve our bundle size | Oct 30   | 🐒 don't plublish as this is internal code analysis |
+|   ⚡️    | Maxis       | NPM package cheat sheet | Best practices in baking a npm package from nothing to publishing 🎉                                            | Oct 19   | 🦍                                                  |
 
 <details>
 <summary>Scheduled</summary>
