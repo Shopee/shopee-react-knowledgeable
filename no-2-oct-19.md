@@ -6,7 +6,7 @@ Venue: 2nd Floor Sharing Space
 
 Schedule:
 
--
+- 1805: Jianbo Wu. Y-Combinator
 
 ## Intro
 
