@@ -1,6 +1,6 @@
 # React Knowledgeable No.2
 
-Time: Oct 19, 2018. 18:00
+Time: Oct 12, 2018. 18:00
 
 Venue: 2nd Floor Sharing Space
 
