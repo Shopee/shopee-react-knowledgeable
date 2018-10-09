@@ -21,7 +21,7 @@ Venue: _2nd Floor Projector Space_
 
 ### Upcoming
 
-- [#2: Oct 19, 2018](./no-2-oct-19.md)
+- [#2: Oct 12, 2018](./no-2-oct-19.md)
 
 ### Past
 
