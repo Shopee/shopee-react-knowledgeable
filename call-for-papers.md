@@ -20,6 +20,7 @@ For video options, please indicate one of the following:
 |   ⚡️    | Maxis       | NPM package cheat sheet | Best practices in baking a npm package from nothing to publishing 🎉                                            | Oct 19   | 🦍                                                  |
 |   ⚡️    | Luy Tran    | Better type checking with Flow | Some useful tips & tricks to work with Flow may help you happier & more productive.                      | Oct 26   |  🦍                                                 |
 |   ⚡️    | Isham       | Mobx | Builing a simple app with mobx and mobx-state-tree                                            | Oct 26   | 🦍                                                  |
+|   ⚡️    | Li Hau    | The lerna swiss army knife | Cutting through lerna commmands!                      | Oct 12   |  🦍                                                 |
 
 <details>
 <summary>Scheduled</summary>
