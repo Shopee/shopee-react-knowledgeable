@@ -19,6 +19,7 @@ For video options, please indicate one of the following:
 |    🌚    | Chenchen    | Performance Budget      | Let's take a look at the weight of our front end code and discuss some plans how we can improve our bundle size | Oct 30   | 🐒 don't plublish as this is internal code analysis |
 |   ⚡️    | Maxis       | NPM package cheat sheet | Best practices in baking a npm package from nothing to publishing 🎉                                            | Oct 19   | 🦍                                                  |
 |   ⚡️    | Luy Tran    | Better type checking with Flow | Some useful tips & tricks to work with Flow may help you happier & more productive.                      | Oct 26   |  🦍                                                 |
+|   ⚡️    | Li Hau    | The lerna swiss army knife | Cutting through lerna commmands!                      | Oct 12   |  🦍                                                 |
 
 <details>
 <summary>Scheduled</summary>
