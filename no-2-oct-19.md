@@ -10,6 +10,8 @@ Schedule:
 
 ## Intro
 
+A featured talk about the interesting ideas behind Y Combinator, the way to express recursive in 𝝺 calculus.
+
 ---
 
 > To share knowledge and have fun.
