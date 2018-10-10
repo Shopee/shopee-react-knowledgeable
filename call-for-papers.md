@@ -22,11 +22,11 @@ For video options, please indicate one of the following:
 <details>
 <summary>Scheduled</summary>
 
-| 🌚 / ⚡️ | Speaker      | Title        | Notes                                                                                                              | Scheduled | Video                        |
-| :------: | :----------- | :----------- | :----------------------------------------------------------------------------------------------------------------- | :-------- | :--------------------------- |
-|   ⚡️    | Ten Zhi Yang | Pecha Kucha  | presentation format for ⚡️talks                                                                                   | Oct 5     | ok to publish                |
-|   ⚡️    | tanlh        | #git-good    | Let's share our favourite git commands and get [#git-good](https://mattermost.garenanow.com/sea/channels/git-good) | Oct 5     | 🦍                           |
-|    🌚    | t1ger        | Y Combinator | Some ancient hacker trick                                                                                          | Oct 12    | don't plublish :see_no_evil: |
+| 🌚 / ⚡️ | Speaker      | Title        | Notes                                                    | Scheduled | Video                        |
+| :------: | :----------- | :----------- | :------------------------------------------------------- | :-------- | :--------------------------- |
+|   ⚡️    | Ten Zhi Yang | Pecha Kucha  | presentation format for ⚡️talks                         | Oct 5     | ok to publish                |
+|   ⚡️    | tanlh        | #git-good    | Let's share our favourite git commands and get #git-good | Oct 5     | 🦍                           |
+|    🌚    | t1ger        | Y Combinator | Some ancient hacker trick                                | Oct 12    | don't plublish :see_no_evil: |
 
 </details>
 
