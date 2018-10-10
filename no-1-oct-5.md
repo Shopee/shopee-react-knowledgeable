@@ -17,12 +17,10 @@ Grand speaker Ten sharing a state-of-art way of doing a lightning talk in form o
 
 ### `#git-good`
 
-Master Lihau sharing his goodies on `git`.
+Li Hau sharing his daily `git` commands and hopes to inspire others to share too ❤️. [[Slides 📄]](https://slides.com/tanhauhau/git)
 
 ---
 
 > To share knowledge and have fun.
 
-- To speak on React Knowledgeable or to suggest topics, add your topic [here](https://git.garena.com/shopee/mall-fe/react-knowledgeable/blob/master/call-for-papers.md).
-
-- For general suggestions, join our mattermost channel [here](https://mattermost.garenanow.com/sea/channels/react-knowledgeable).
+- To speak on React Knowledgeable or to suggest topics, add your topic [here](./call-for-papers.md).
