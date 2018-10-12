@@ -18,15 +18,15 @@ Shopee React Knowledgeable is a talk series focusing on technology, ideas, and e
 - [YouTube Channel](https://www.youtube.com/channel/UCswxnKjnWhnSR00wC1J8LZA)
 - [Medium Channel](https://medium.com/shopee-react-knowledgeable)
 
-## Monthly Roasters
+## React Knowledgeable Weekly
 
 ### Upcoming
 
-- [#2: Oct 12, 2018](./no-2-oct-19.md)
+- [#2: Oct 12, 2018](./weekly/no-2-oct-12.md)
 
 ### Past
 
-- [#1: Oct 5, 2018](./no-1-oct-5.md)
+- [#1: Oct 5, 2018](./weekly/no-1-oct-5.md)
 
 ---
 
