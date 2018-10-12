@@ -1,21 +1,22 @@
 # React Knowledgeable
 
-> To share knowledge and have fun.
-
 **Table of Contents**
 
 - [Home](#about)
-- [Sign Up for Talks](./call-for-papers.md)
+- [Sign Up for Talks](./scheduling/sign-up-for-talks.md)
+- [Suggested Topics](./suggested-topics.md)
 - [Resources](./resources.md)
 
-## About
+---
 
-Time:
+## About React-Knowledgeable
 
-- Weekly Fridays 1800 - 1900
-- OD Fridays 1600 - 1700
+> To share knowledge and have fun.
 
-Venue: _2nd Floor Projector Space_
+Shopee React Knowledgeable is a talk series focusing on technology, ideas, and experiences as an engineer at Shopee.
+
+- [YouTube Channel](https://www.youtube.com/channel/UCswxnKjnWhnSR00wC1J8LZA)
+- [Medium Channel](https://medium.com/shopee-react-knowledgeable)
 
 ## Monthly Roasters
 
@@ -29,39 +30,13 @@ Venue: _2nd Floor Projector Space_
 
 ---
 
-## Speaking on React Knowledgeable
+## Details
 
-### Lightning Talks
+Time:
 
-We will have lightning talks on open topics with a new-joiner, open-signup, and lucky-draw basis.
+- Weekly Fridays 1800 - 1900
+- OD Fridays 1600 - 1700
 
-**How long do I have to ⚡️ lighten?**
+Venue: _2nd Floor Projector Space_
 
-> You will ⚡️ lighten for 7 mins.
-
-**What should I talk about to ⚡️ lighten?**
-
-- prior projects
-- pitch or prelaunch your open source project
-- life stories, philosophy of the universe
-- ... and more
-
-See here for an example of a lightning talk: Andres Suarez - [Moving Fast with Nuclide and Flow](https://youtu.be/WRyk5ZVklFs)
-
-**Cool, how do I ⚡️ lighten?**
-
-You fill up the form on [this page](./call-for-papers.md) by [creating a pull request](https://github.com/Shopee/react-knowledgeable/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aopen+sort%3Aupdated-desc+label%3Acall-for-papers). Once the schedule is confirmed, we'll move that to the monthly roster, get prepared :)
-
-- New joiners each month will automatically be enrolled for next month's roster
-- Open sign-ups: by the Friday one week before each week's sharing.
-- Lucky draws to fill 2 lightning talks
-
-**Before You Speak**: Let's pre-⚡️ and do a dry-run by the Monday before your sharing slot
-
-### Featured Talks
-
-Time: ~30 mins
-
-#### Who will talk 🌚 featured?
-
-Let's keep it simple now. Sign up [here](./call-for-papers.md).
+---

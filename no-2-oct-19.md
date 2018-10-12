@@ -16,4 +16,4 @@ A featured talk about the interesting ideas behind Y Combinator, the way to expr
 
 > To share knowledge and have fun.
 
-- To speak on React Knowledgeable or to suggest topics, add your topic [here](./call-for-papers.md).
+- To speak on React Knowledgeable or to suggest topics, add your topic [here](./scheduling/sign-up-for-talks.md).
