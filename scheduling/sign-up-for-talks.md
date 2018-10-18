@@ -16,5 +16,6 @@ For video options, please indicate one of the following:
 | 🌚  | wangz    | (TBA)              | Officially introduce Manta Style and a new way to set up frontend mockup process                                | Oct 30   | 🦍                                                  |
 | 🌚  | Chenchen | Performance Budget | Let's take a look at the weight of our front end code and discuss some plans how we can improve our bundle size | Oct 30   | 🐒 don't plublish as this is internal code analysis |
 | 😼  | Thien Tran | ReasonML- Just give me a  reason | Another way to write React Component by leveraging both Javascript and OCaml ecosystem | Oct 30 | 🦍
+| 🌚  | Tenzy | I don't know javascript | Weird javascript behaviors and why are they like this | Nov 9 | 🦍 |
 
 If you have already sign up for your talks, please proceed [here](./scheduled-dry-runs.md) to check for your scheduled dry-run / talk dates.
