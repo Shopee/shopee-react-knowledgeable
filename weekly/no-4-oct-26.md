@@ -6,7 +6,7 @@ Venue: 2nd Floor Sharing Space
 
 ## Talks
 
-### NPM package cheat sheet
+### The NPM Icubator
 
 _Maxis Kao_
 
