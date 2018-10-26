@@ -23,7 +23,23 @@ Shopee React Knowledgeable is a talk series focusing on technology, ideas, and e
 
 ## Upcoming
 
-- [#4: Oct 26, 2018](./weekly/no-4-oct-26.md)
+**React Knowledgeable No.3**
+
+Time: Oct 26, 2018. 16:00
+
+Venue: 2nd Floor Sharing Space
+
+### NPM package cheat sheet
+
+_Maxis Kao_
+
+Best practices in baking a npm package from nothing to publishing 🎉
+
+### Mobx
+
+_Isham_
+
+Builing a simple app with mobx and mobx-state-tree
 
 ## Past Talks
 
