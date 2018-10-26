@@ -14,7 +14,7 @@ _Jin Lei_
 
 _Xiaowei Xue_
 
-### How I got WiFi in my Dorm Room
+### How I Got WiFi in My Dorm Room
 
 _Ken Lee_
 
