@@ -2,14 +2,17 @@
 
 **Table of Contents**
 
-- [Home](#about)
+- [Home](#)
+  - [About](#about)
+  - [Upcoming](#upcoming)
+  - [Past Talks](#past-talks)
 - [Sign Up for Talks](./scheduling/sign-up-for-talks.md)
 - [Suggested Topics](./suggested-topics.md)
 - [Resources](./resources.md)
 
 ---
 
-## About React-Knowledgeable
+## About
 
 > To share knowledge and have fun.
 
@@ -18,27 +21,22 @@ Shopee React Knowledgeable is a talk series focusing on technology, ideas, and e
 - [YouTube Channel](https://www.youtube.com/channel/UCswxnKjnWhnSR00wC1J8LZA)
 - [Medium Channel](https://medium.com/shopee-react-knowledgeable)
 
-## React Knowledgeable Weekly
-
-### Upcoming
+## Upcoming
 
 - [#4: Oct 26, 2018](./weekly/no-4-oct-26.md)
 
-### Past
+## Past Talks
 
-- [#3: Oct 19, 2018](./weekly/no-3-oct-19.md)
-- [#2: Oct 12, 2018](./weekly/no-2-oct-12.md)
-- [#1: Oct 5, 2018](./weekly/no-1-oct-5.md)
-
----
-
-## Details
-
-Time:
-
-- Weekly Fridays 1800 - 1900
-- OD Fridays 1600 - 1700
-
-Venue: _2nd Floor Projector Space_
+|                   Speaker                   | Title                          | Notes                                                                                                 | Links                                                                                           |     |
+| :-----------------------------------------: | :----------------------------- | :---------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- | --- |
+|                     #3                      | Oct 19                         |
+|                   Lei Jin                   | Firebase                       | Let's Build A Simple Chatroom with Firebase                                                           | [Video](https://www.youtube.com/watch?v=ZwLfnZYNb0E&t=2s)                                       |
+|                 Xiaowei Xue                 | VS Code Extension              | Building an i18n extension for VSCode                                                                 |
+|     [KenLSM](https://github.com/KenLSM)     | How I Got WiFi in My Dorm Room | Turing a Raspberry PI into a router, and its hacks.                                                   | [Video](https://www.youtube.com/watch?v=SfUk_Y41JnQ&t=2s)                                       |
+|                     #2                      | Oct 12                         |
+| [t1ger-0527](https://github.com/t1ger-0527) | Y-Combinator                   | The computing and mathematical ideas behind Y Combinator, the way to express recursive in 𝝺 calculus. |
+|                     #1                      | Oct 5                          |
+|     [tenzy](https://github.com/Tzyinc)      | ペチャクチャ                   | Grand speaker Ten sharing a state-of-art way of doing a lightning talk in form of a lightning talk.   | [Video](https://www.youtube.com/watch?v=EQOyzFnEsvM)                                            |
+|  [tanhauhau](https://github.com/tanhauhau)  | Git Good                       | Li Hau sharing his daily `git` commands and hopes to inspire others to share too ❤️.                  | [Slides](https://slides.com/tanhauhau/git) [Video](https://www.youtube.com/watch?v=vpFKAV1Zy5Y) |
 
 ---
