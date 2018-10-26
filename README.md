@@ -21,6 +21,8 @@ Shopee React Knowledgeable is a talk series focusing on technology, ideas, and e
 - [YouTube Channel](https://www.youtube.com/channel/UCswxnKjnWhnSR00wC1J8LZA)
 - [Medium Channel](https://medium.com/shopee-react-knowledgeable)
 
+---
+
 ## Upcoming
 
 **React Knowledgeable No.3**
@@ -40,6 +42,8 @@ Best practices in baking a npm package from nothing to publishing 🎉
 _Isham_
 
 Builing a simple app with mobx and mobx-state-tree
+
+---
 
 ## Past Talks
 
