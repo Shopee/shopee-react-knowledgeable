@@ -27,7 +27,7 @@ Shopee React Knowledgeable is a talk series focusing on technology, ideas, and e
 
 ## Past Talks
 
-|                   Speaker                   | Title                          | Notes                                                                                                 | Links                                                                                           |     |
+|                   Speaker                   | Title                          | Notes                                                                                                 | Links                                                                                           |     
 | :-----------------------------------------: | :----------------------------- | :---------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- |
 |                     #3                      | Oct 19                         |
 |                   Lei Jin                   | Firebase                       | Let's Build A Simple Chatroom with Firebase                                                           | [Video](https://www.youtube.com/watch?v=ZwLfnZYNb0E&t=2s)                                       |
