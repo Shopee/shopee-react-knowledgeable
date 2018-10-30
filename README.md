@@ -31,13 +31,13 @@ Time: Nov 2, 2018. 18:00
 
 Venue: 2nd Floor Sharing Space
 
-### Flow Tricks
+### Better Type Checking with Flow
 
 _Tran Luy_
 
 New member _Tran_ to share with us a few Flow tricks.
 
-### Just Give Me a Reason
+### Just Give Me A Reason
 
 _Thien Tran_
 
