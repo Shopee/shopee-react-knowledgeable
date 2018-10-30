@@ -31,6 +31,12 @@ Time: Nov 2, 2018. 18:00
 
 Venue: 2nd Floor Sharing Space
 
+### Flow Tricks
+
+_Tran Luy_
+
+New member _Tran_ to share with us a few Flow tricks.
+
 ### Just Give Me a Reason
 
 _Thien Tran_
@@ -45,7 +51,7 @@ Another way to write React Component by leveraging both Javascript and OCaml eco
 | :-----------------------------------------: | :----------------------------- | :---------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
 |                     #4                      | Oct 26                         |
 |  [maxis1718](https://github.com/maxis1718)  | The NPM Incubator              | Best practices in baking a npm package from nothing to publishing 🎉                                  |
-|     [ishamf](https://github.com/ishamf)     | mobx                           | Builing a simple app with mobx and mobx-state-tree                                                    |
+|     [ishamf](https://github.com/ishamf)     | mobx                           | Builing a simple app with mobx and mobx-state-tree                                                    | [Video](https://www.youtube.com/watch?v=j_bR3xohup4&)                                                   |
 |                     #3                      | Oct 19                         |
 |                   Lei Jin                   | Firebase                       | Let's Build A Simple Chatroom with Firebase                                                           | [Video](https://www.youtube.com/watch?v=ZwLfnZYNb0E&t=2s) [Slides](http://slides.com/jinlei/firebase#/) |
 |                 Xiaowei Xue                 | VS Code Extension              | Building an i18n extension for VSCode                                                                 |
