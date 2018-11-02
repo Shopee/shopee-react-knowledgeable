@@ -27,7 +27,7 @@ Shopee React Knowledgeable is a talk series focusing on technology, ideas, and e
 
 **React Knowledgeable No.5**
 
-Time: Nov 2, 2018. 18:00
+Time: Nov 9, 2018. 18:00
 
 Venue: 2nd Floor Sharing Space
 
@@ -37,11 +37,9 @@ _Tran Luy_
 
 New member _Tran_ to share with us a few Flow tricks.
 
-### Just Give Me A Reason
+### Church Encoding
 
-_Thien Tran_
-
-Another way to write React Component by leveraging both Javascript and OCaml ecosystem
+_JIanbo Wu_
 
 ---
 
@@ -49,6 +47,8 @@ Another way to write React Component by leveraging both Javascript and OCaml eco
 
 |                   Speaker                   | Title                          | Notes                                                                                                 | Links                                                                                                   |
 | :-----------------------------------------: | :----------------------------- | :---------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
+|                     #5                      | Nov 2                          |
+|                    Thien                    | Just Give Me A Reason          | Another way to write React Component by leveraging both Javascript and OCaml ecosystem                |
 |                     #4                      | Oct 26                         |
 |  [maxis1718](https://github.com/maxis1718)  | The NPM Incubator              | Best practices in baking a npm package from nothing to publishing 🎉                                  |
 |     [ishamf](https://github.com/ishamf)     | mobx                           | Builing a simple app with mobx and mobx-state-tree                                                    | [Video](https://www.youtube.com/watch?v=j_bR3xohup4&)                                                   |
