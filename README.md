@@ -43,7 +43,7 @@ _Jianbo Wu_
 | :-----------------------------------------: | :----------------------------- | :---------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
 |                     #6                      | Nov 9                          |
 |                  Tran Luy                   | Flow Tricks                    |                                                                                                       | [Slides](https://docs.google.com/presentation/d/18numTn97sKeq2_Pg0na87rKrOGGy8W0sEbNebCPCw68/edit?usp=sharing) |
-| [t1ger-0527](https://github.com/t1ger-0527) | Church Encoding (Part 2)       |                                                                                                       | [Gist]https://gist.github.com/t1ger-0527/54731fba413a1edef284c05c57d88254)                                     |
+| [t1ger-0527](https://github.com/t1ger-0527) | Church Encoding (Part 2)       |                                                                                                       | [Gist](https://gist.github.com/t1ger-0527/54731fba413a1edef284c05c57d88254)                                    |
 |                     #5                      | Nov 2                          |
 |                    Thien                    | Just Give Me A Reason          | Another way to write React Component by leveraging both Javascript and OCaml ecosystem                |
 |                     #4                      | Oct 26                         |
