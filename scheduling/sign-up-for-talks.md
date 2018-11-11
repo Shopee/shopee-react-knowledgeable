@@ -17,6 +17,6 @@ For video options, please indicate one of the following:
 | 🌚  | Chenchen | Performance Budget | Let's take a look at the weight of our front end code and discuss some plans how we can improve our bundle size | Oct 30   | 🐒 don't plublish as this is internal code analysis |
 | 🌚  | t1ger | Lambda calculus | Continue the topic of Church Encoding.| Oct 26 | No video |
 | 🌚  | t1ger | SK combinator, a minimal Turing-Complete programming language. | Open a new topic about SKI Combinator.| Nov 15 | No video |
-| 🌚  | t1ger | Continuation-passing style and yin-yang puzzle | A brief introduction about recurrent function call optimization and CPS, use CPS to solve interesting [yin-yang puzzle](https://everything2.com/title/call%252Fcc+yin-yang+puzzle).| Nov 29 | No video |
+| 🌚  | t1ger | Continuation-passing style and yin-yang puzzle | A brief introduction about recurrent function call optimization and CPS, use CPS to solve the interesting [yin-yang puzzle](https://everything2.com/title/call%252Fcc+yin-yang+puzzle).| Nov 29 | No video |
 
 If you have already sign up for your talks, please proceed [here](./scheduled-dry-runs.md) to check for your scheduled dry-run / talk dates.
