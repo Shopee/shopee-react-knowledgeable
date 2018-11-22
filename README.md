@@ -27,13 +27,13 @@ Shopee React Knowledgeable is a talk series focusing on technology, ideas, and e
 
 **React Knowledgeable No.7**
 
-Time: Nov 16, 2018. 18:00
+Time: Nov 23, 2018. 18:00
 
 Venue: 2nd Floor Sharing Space
 
-### Church Encoding (Part 3)
+### ⚡️️️️️⚡️⚡️⚡️ Developing and Publishing Multiple Packages
 
-_Jianbo Wu_
+_Lihau Tan_
 
 ---
 
@@ -41,6 +41,8 @@ _Jianbo Wu_
 
 |                   Speaker                   | Title                          | Notes                                                                                                 | Links                                                                                                          |
 | :-----------------------------------------: | :----------------------------- | :---------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
+|                     #7                      | Nov 16                         |
+|              Ken Lee & Wei Gao              | Retrospecs                     |                                                                                                       |
 |                     #6                      | Nov 9                          |
 |                  Tran Luy                   | Flow Tricks                    |                                                                                                       | [Slides](https://docs.google.com/presentation/d/18numTn97sKeq2_Pg0na87rKrOGGy8W0sEbNebCPCw68/edit?usp=sharing) |
 | [t1ger-0527](https://github.com/t1ger-0527) | Church Encoding (Part 2)       |                                                                                                       | [Gist](https://gist.github.com/t1ger-0527/54731fba413a1edef284c05c57d88254)                                    |
