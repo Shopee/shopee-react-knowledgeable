@@ -47,7 +47,7 @@ _Lihau Tan_
 |                  Tran Luy                   | Flow Tricks                    |                                                                                                       | [Slides](https://docs.google.com/presentation/d/18numTn97sKeq2_Pg0na87rKrOGGy8W0sEbNebCPCw68/edit?usp=sharing) |
 | [t1ger-0527](https://github.com/t1ger-0527) | Church Encoding (Part 2)       |                                                                                                       | [Gist](https://gist.github.com/t1ger-0527/54731fba413a1edef284c05c57d88254)                                    |
 |                     #5                      | Nov 2                          |
-|                    Thien                    | Just Give Me A Reason          | Another way to write React Component by leveraging both Javascript and OCaml ecosystem                |
+|                    Thien                    | Just Give Me A Reason          | Another way to write React Component by leveraging both Javascript and OCaml ecosystem                | [Video](https://www.youtube.com/watch?v=LmqwhKXn-7s)
 |                     #4                      | Oct 26                         |
 |  [maxis1718](https://github.com/maxis1718)  | The NPM Incubator              | Best practices in baking a npm package from nothing to publishing 🎉                                  |
 |     [ishamf](https://github.com/ishamf)     | mobx                           | Builing a simple app with mobx and mobx-state-tree                                                    | [Video](https://www.youtube.com/watch?v=j_bR3xohup4&)                                                          |
