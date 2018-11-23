@@ -20,5 +20,9 @@ For video options, please indicate one of the following:
 | 🌚  | t1ger | Continuation-passing style and yin-yang puzzle | A brief introduction about recurrent function call optimization and CPS, use CPS to solve the interesting [yin-yang puzzle](https://everything2.com/title/call%252Fcc+yin-yang+puzzle).| Nov 29 | No video |
 | ⚡️ | Tenzy | Ahbang! Satu Kopi C Siew Dai! | A guide to ordering food lingo in singapore | Nov 30 | 🦍|
 | ⚡️ | Tenzy | How to talk | How to write and prepare for presentations | Dec 7 | 🦍|
+| ⚡️ | Jennie Ji | Set a little goal, and achieve it | Introduction of how to start self improvement. | Nov 30 | No video |
+| 🌚 | Jennie Ji | Underwater | Fun of diving, introduction of how to start | Dec 28 | No video |
+| ⚡️ | Jennie Ji | How we make search page faster | Search feature performance improvement | Feb 1, 2019 | No video |
+| (TBC) | Jennie Ji | Live simple and less waste | Introduction about minimalist and zero waste life style, and my starting transition experience | March 1, 2019 | No video |
 
 If you have already sign up for your talks, please proceed [here](./scheduled-dry-runs.md) to check for your scheduled dry-run / talk dates.
