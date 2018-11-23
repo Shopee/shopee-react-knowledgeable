@@ -18,5 +18,7 @@ For video options, please indicate one of the following:
 | 🌚  | t1ger | Lambda calculus | Continue the topic of Church Encoding.| Oct 26 | No video |
 | 🌚  | t1ger | SK combinator, a minimal Turing-Complete programming language. | Open a new topic about SKI Combinator.| Nov 15 | No video |
 | 🌚  | t1ger | Continuation-passing style and yin-yang puzzle | A brief introduction about recurrent function call optimization and CPS, use CPS to solve the interesting [yin-yang puzzle](https://everything2.com/title/call%252Fcc+yin-yang+puzzle).| Nov 29 | No video |
+| ⚡️ | Tenzy | Ahbang! Satu Kopi C Siew Dai! | A guide to ordering food lingo in singapore | Nov 30 | 🦍|
+| ⚡️ | Tenzy | How to talk | How to write and prepare for presentations | Dec 7 | 🦍|
 
 If you have already sign up for your talks, please proceed [here](./scheduled-dry-runs.md) to check for your scheduled dry-run / talk dates.
