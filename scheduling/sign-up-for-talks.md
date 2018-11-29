@@ -13,7 +13,7 @@ For video options, please indicate one of the following:
 | ⚡️ | Speaker  | Title              | Notes                                                                                                           | Ready by | Video                                               |
 | :-: | :------- | :----------------- | :-------------------------------------------------------------------------------------------------------------- | :------- | :-------------------------------------------------- |
 | ⚡️ | Ken Lee  | Shazam?            | How in the world does SHA⚡️AM know what you are listening to?                                                  | ?        | 🦍                                                  |
-| 🌚  | wangz    | (TBA)              | Officially introduce Manta Style and a new way to set up frontend mockup process                                | Oct 30   | 🦍                                                  |
+| 🌚  | wangz    | Full-stack, E2E Type Coverage              | Officially introduce Manta Style and a revolutionary solution for full-stack, end to end type coverage                               | 2019   | 🦍                                                  |
 | 🌚  | Chenchen | Performance Budget | Let's take a look at the weight of our front end code and discuss some plans how we can improve our bundle size | Oct 30   | 🐒 don't plublish as this is internal code analysis |
 | 🌚  | t1ger | Lambda calculus | Continue the topic of Church Encoding.| Oct 26 | No video |
 | 🌚  | t1ger | SK combinator, a minimal Turing-Complete programming language. | Open a new topic about SKI Combinator.| Nov 15 | No video |
