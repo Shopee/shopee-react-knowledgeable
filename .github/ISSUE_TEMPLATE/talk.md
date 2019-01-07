@@ -5,7 +5,6 @@ about: Use this template to create your talk.
 ---
 
 <!-- Please put title of your talk in the issue title -->
-<!-- Please apply label "talk" -->
 <!-- Please also help by applying "⚡️" or "⛰️" if you know what type of talk you will be giving -->
 
 Speaker
