@@ -1,7 +1,9 @@
 ---
 name: Weekly
 about: Use this template to create a weekly issue.
-
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

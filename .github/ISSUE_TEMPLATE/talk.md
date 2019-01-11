@@ -1,6 +1,9 @@
 ---
 name: Talk
 about: Use this template to create your talk.
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
