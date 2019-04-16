@@ -24,5 +24,6 @@ For video options, please indicate one of the following:
 | 🌚 | Jennie Ji | Underwater | Fun of diving, introduction of how to start | Dec 28 | No video |
 | ⚡️ | Jennie Ji | How we make search page faster | Search feature performance improvement | Feb 1, 2019 | No video |
 | (TBC) | Jennie Ji | Live simple and less waste | Introduction about minimalist and zero waste life style, and my starting transition experience | March 1, 2019 | No video |
+| ⚡ | Tenzy | Drawing with CSS Backgrounds | Tips and tricks to drawing using background gradients | April 26 | 🦍 |
 
 If you have already sign up for your talks, please proceed [here](./scheduled-dry-runs.md) to check for your scheduled dry-run / talk dates.
