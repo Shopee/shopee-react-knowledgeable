@@ -1,23 +1,25 @@
 ---
 name: Talk
 about: Use this template to create your talk.
-title: ''
-labels: ''
-assignees: ''
-
+title: "👾"
+labels: "talk"
+assignees: ""
 ---
 
-<!-- Please put title of your talk in the issue title -->
-<!-- Please also help by applying "⚡️" or "⛰️" if you know what type of talk you will be giving -->
+<!-- Every talk must come with an emoji in the title -->
 
-Speaker
----
-<!-- Normally it's you :) -->
+## Intro
 
-Intro
----
-<!--- Write a brief paragraph describing what your talk is about. This will be used in any places where we introduce your talk -->
+<!-- Tell us about the background and motivation of your topic. It'll be helpful if you include whether the talk will be an intro, a hands-on, or an in-depth exploration of the topic. -->
 
-Ready by
----
-<!-- We'll schedule your dry run to the next available spot after your ready by date -->
+<!-- Pick a type of talk -->
+
+- Type of talk: introduction, show and tell, hands-on, in-depth, theoretical
+
+<!-- Any related material -->
+
+## Logistics
+
+- Estimated duration: <!-- suggestion: ⚡️ 7 mins / 🧙🏻‍♂️ 30 mins -->
+- Ready by:
+- Need dry run: <!-- also indicate here if you have specific person you'd like to invite to help you prepare -->
