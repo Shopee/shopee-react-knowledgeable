@@ -6,6 +6,10 @@
 
 Shopee React Knowledgeable is a talk series focusing on technology, ideas, and experiences as an engineer at Shopee.
 
+We happen _every Friday in our last working hour_. This means 6pm nearly all Fridays, with the exception of public holidays, or in collision with other company events.
+
+You may also find us here:
+
 - [Twitter @reknowledgeable](https://medium.com/reknowledgeable)
 - [YouTube Channel](https://www.youtube.com/channel/UCswxnKjnWhnSR00wC1J8LZA)
 
