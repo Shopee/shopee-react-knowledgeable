@@ -10,7 +10,7 @@ We happen _every Friday in our last working hour_. This means 6pm nearly all Fri
 
 You may also find us here:
 
-- [Twitter @reknowledgeable](https://medium.com/reknowledgeable)
+- [Twitter @reknowledgeable](https://twitter.com/reknowledgeable)
 - [YouTube Channel](https://www.youtube.com/channel/UCswxnKjnWhnSR00wC1J8LZA)
 
 ## Speak at `<RK />`
