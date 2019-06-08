@@ -1,36 +1,34 @@
 ---
 name: Weekly
 about: Use this template to create a weekly issue.
-title: ''
-labels: ''
-assignees: ''
-
+title: "React Knowledgeable # - date"
+labels: "weekly"
+assignees: ""
 ---
 
-<!-- title goes to the title bar -->
-# React Knowledgeable #${number} - ${date}
+# React Knowledgeable Week \${number}
 
-# React Knowledgeable Week ${number}
-
-
-
-🗓 Date: 18:00, Friday, ${date}
+🗓 Date: 18:00, Friday,
 🗺 Location: 2nd Floor Sharing Space
 
-<!-- Front matter, intro to this week -->
+<!-- Front matter
+- anything special week
+- any guests
+- new joiners
+-->
 
-## ⛰️  Talk 1 (normally featured)
+## Agenda
 
-<!-- intro to talk 1 -->
+## RK Updates
 
-## ⚡️ Talk 2
+<!-- Post matter
+- next week's talk
+- open slot for talks
+-
+-->
 
-<!-- intro to talk 2 -->
-
-<!-- Post Matter, CfP, next week's time, etc -->
-
-## Call for Paper
-
-We're calling for paper for ${talk_date}.
-
-Nearest open dry run spot on ${dry_run_date}.
+<!--
+- Hosted by:
+- This event is: public / private
+- Additional preparation?
+-->
