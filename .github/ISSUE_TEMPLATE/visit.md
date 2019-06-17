@@ -1,25 +1,23 @@
 ---
-name: Visit
-about: Use this template to schedule your visit.
+name: Visit + Talk
+about: Use this template to schedule your visit + talk.
 title: ""
 labels: "visit"
 assignees: ""
 ---
 
-<!-- Consider this template:
+<!-- Consider this template, but writing whatever about your talk also can
 
 Hi,
 
-Thank you for organizing this awesome talk series!
+My name is ${Crabbie Rust}. I am a ${lord of walking sideways} at ${sea}. 
 
-My name is ${Krabbie Rust}. I am a ${lord of walking sideways} at sea. I have read in your upcoming events that the talks ${this Friday} are really interesting to me. Since they're not marked as "private" and I've checked your schedule against mine that ${this time} works perfectly for me! May I stop by to sit in the session and chill out with you guys a little bit?
+I'd like to talk about ${how not to get caught and be eaten} at your ${which month} event.
 
-If this helps, I'd like to clarify that I'm will not be trying to hire your engineers or conduct any unwelcome behavior. As doing so would probably hinder the effort you guys have put out to make these sessions public.
+Here's a little more background and motivation about the talk:
 
-Here's a bit more detail
-- Date & issue:
-- Estimated arrival time:
-- I'd like to join the pre-talk activities as well: yes / no
-- I'd like to be introduced as follows:
+${The human beings like to eat crab too much. We need to change that fact. Otherwise they are gonna keep catching us and steam us and eat us and they even feel good about it. If you are concerned about then endangerness of our species, please come support us. This world is better with your faith. Cheers.}
+
+As you can see above, I have a point to make. Please let me in thanks.
 
 -->
