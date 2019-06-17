@@ -7,6 +7,9 @@ assignees: ""
 ---
 
 <!-- Every talk must come with an emoji in the title -->
+Speaker
+---
+
 
 Intro
 ---
