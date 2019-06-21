@@ -16,7 +16,7 @@ I'd like to talk about ${how not to get caught and be eaten} at your ${which mon
 
 Here's a little more background and motivation about the talk:
 
-${The human beings like to eat crab too much. We need to change that fact. Otherwise they are gonna keep catching us and steam us and eat us and they even feel good about it. If you are concerned about then endangerness of our species, please come support us. This world is better with your faith. Cheers.}
+${The human beings like to eat crab too much. We need to change that fact. Otherwise they are gonna keep catching us and steam us and eat us and they even feel good about it. If you are concerned about then endangerment of our species, please come support us. This world is better with your faith. Cheers.}
 
 As you can see above, I have a point to make. Please let me in thanks.
 
