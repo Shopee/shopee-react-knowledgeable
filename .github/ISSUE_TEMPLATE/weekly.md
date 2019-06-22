@@ -10,6 +10,9 @@ assignees: ""
 
 🗓 Date: 18:00, Friday,
 🗺 Location: 2nd Floor Sharing Space
+🦄 Host:
+
+## RK this week
 
 <!-- Front matter
 - anything special week
@@ -19,16 +22,9 @@ assignees: ""
 
 ## Agenda
 
-## RK Updates
+## Next up
 
 <!-- Post matter
-- next week's talk
-- open slot for talks
--
--->
-
-<!--
-- Hosted by:
-- This event is: public / private
-- Additional preparation?
+- Next week:
+- Open slot for talk:
 -->
