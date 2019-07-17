@@ -11,6 +11,7 @@ assignees: ""
 🗓 Date: 18:00, Friday,
 🗺 Location: 2nd Floor Sharing Space
 🦄 Host:
+🎙 Open slot for talk:
 
 ## RK this week
 
@@ -22,9 +23,11 @@ assignees: ""
 
 ## Agenda
 
-## Next up
 
-<!-- Post matter
-- Next week:
-- Open slot for talk:
--->
+<details>
+ <summary>Checklist</summary>
+
+- [ ] submitted request for cafe booking
+- [ ] venue confirmed & additional booking cancelled
+
+</details>
