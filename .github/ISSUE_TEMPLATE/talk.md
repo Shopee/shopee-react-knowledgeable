@@ -3,7 +3,7 @@ name: Talk
 about: Use this template to create your talk.
 title: "👾"
 labels: "talk"
-project: "React Knowledgeable Scheduling"
+projects: "React Knowledgeable Scheduling"
 assignees: ""
 ---
 
