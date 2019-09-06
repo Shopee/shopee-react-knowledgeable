@@ -9,7 +9,7 @@ assignees: ""
 # React Knowledgeable Week \${number}
 
 🗓 Date: 18:00, Friday,
-🗺 Location: 2nd Floor Sharing Space
+🗺 Location: Shopee Building - Level 1 Esplanade 1 event room
 🦄 Host:
 🎙 Open slot for talk:
 
