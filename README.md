@@ -1,4 +1,4 @@
-# React Knowledgeable
+# Shopee React Knowledgeable
 
 👹 You may be looking for the Singapore chapter of [React Knowledgeable](https://reactknowledgeable.org/), the talks repo is [here](https://github.com/react-knowledgeable/talks). 👹
 
@@ -8,9 +8,12 @@
 
 React Knowledgeable is a talk series focusing on technology, ideas, and experiences as a React developer at Shopee.
 
-We happen _every Friday in our last working hour_. This means 6pm nearly all Fridays, with the exception of public holidays, or in collision with other company events.
+We happen _every Friday in our last working hour_. This means 1800 nearly most Fridays, 1700 some Fridays. We skip public holidays or collisions with other company events that land on Fridays.
 
-You can find all our talk information and schedules in [our issues](https://github.com/Shopee/react-knowledgeable/issues).
+## Links
+
+- [recent upcoming events and talks](https://github.com/Shopee/react-knowledgeable/issues)
+- [past talks](https://github.com/Shopee/shopee-react-knowledgeable/issues?q=is%3Aissue+label%3Atalk+is%3Aclosed)
 
 You may also find us here:
 
@@ -18,7 +21,7 @@ You may also find us here:
 - [Facebook Group](https://www.facebook.com/reactknowledgeable/)
 - [YouTube Channel](https://www.youtube.com/channel/UCswxnKjnWhnSR00wC1J8LZA)
 
-## Speak at `<RK />`
+## Speaking at `<RK />`
 
 [Create an issue](https://github.com/Shopee/react-knowledgeable/issues/new?assignees=&labels=&template=talk.md&title=) at our repo and follow the issue template.
 
@@ -34,7 +37,7 @@ If you'd like to just visit, please comment in the weekly issue so that we can c
 
 To learn about the schedules and agendas for upcoming events, check out our [talks](https://github.com/Shopee/react-knowledgeable/issues?q=is%3Aissue+is%3Aopen+label%3Atalk) and [weekly](https://github.com/Shopee/react-knowledgeable/issues?q=is%3Aissue+is%3Aopen+label%3Aweekly) issues.
 
-In the rare occasion where the talks are not suitable to be open and when we are unable to accommodate external guests, we will mark the event as private. As a courtesy to @Shopee, please do not use this as an opportunity for hiring.
+In the rare occasion where the talks are not suitable to be open and when we are unable to accommodate external guests, we will mark the event as private. As a courtesy to Shopee, please do not use this as an opportunity for hiring.
 
 To guarantee your access to the events, please arrive at least 10 minutes before the talk starts so that we can check you in our office. Please take note of the event time (most starts at 1800, some at 1700, check the issue for details).
 
