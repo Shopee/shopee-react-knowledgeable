@@ -9,19 +9,17 @@ assignees: ""
 # React Knowledgeable Week \${number}
 
 🗓 Date: 18:00, Friday,
-🗺 Location: Shopee Building - Level 1 Esplanade 1 event room
+<!-- 🗺 Location: Shopee Building - Level 1 Esplanade 1 event room -->
 🦄 Host:
-🎙 Open slot for talk:
+<!-- 🎙 Open slot for talk: -->
 
-## RK this week
+🌟 featured talk slot is open 🌟 [submit a talk now](https://github.com/Shopee/shopee-react-knowledgeable/issues/new?assignees=&labels=talk&template=talk.md&title=%F0%9F%91%BE)
+---
 
-<!-- Front matter
-- anything special week
-- any guests
-- new joiners
--->
 
-## Agenda
+⚡️ lightning talk slot is open ⚡️  [submit a talk now](https://github.com/Shopee/shopee-react-knowledgeable/issues/new?assignees=&labels=talk&template=talk.md&title=%F0%9F%91%BE)
+---
+
 
 
 <details>
