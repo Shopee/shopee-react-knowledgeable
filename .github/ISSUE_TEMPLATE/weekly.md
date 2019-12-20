@@ -27,5 +27,6 @@ assignees: ""
 
 - [ ] submitted request for cafe booking
 - [ ] venue confirmed & additional booking cancelled
+- [ ] updated cal inv information (content / venue)
 
 </details>
