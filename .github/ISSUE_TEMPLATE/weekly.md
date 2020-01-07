@@ -10,7 +10,7 @@ assignees: ""
 
 🗓 Date: 18:00, Friday,
 🦄 Host:
-<!-- 🗺 Location: Shopee Building - Level 1 Esplanade 1 event room -->
+<!-- 🗺 Location: **Esplanade** **Shenzhen** -->
 <!-- 🎙 Open slot for talk: -->
 
 🌟 featured talk slot is open 🌟 [submit a talk now](https://github.com/Shopee/shopee-react-knowledgeable/issues/new?assignees=&labels=talk&template=talk.md&title=%F0%9F%91%BE)
