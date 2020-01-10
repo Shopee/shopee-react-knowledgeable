@@ -6,19 +6,18 @@ labels: "weekly"
 assignees: ""
 ---
 
-# React Knowledgeable Week \${number}
+## React Knowledgeable Week \${number}
 
 🗓 Date: 18:00, Friday,
 🦄 Host:
 <!-- 🗺 Location: **Esplanade** **Shenzhen** -->
 <!-- 🎙 Open slot for talk: -->
 
-🌟 featured talk slot is open 🌟 [submit a talk now](https://github.com/Shopee/shopee-react-knowledgeable/issues/new?assignees=&labels=talk&template=talk.md&title=%F0%9F%91%BE)
----
+**🌟 featured talk slot is open 🌟 [submit a talk now](https://github.com/Shopee/shopee-react-knowledgeable/issues/new?assignees=&labels=talk&template=talk.md&title=%F0%9F%91%BE)**
 
 
-⚡️ lightning talk slot is open ⚡️  [submit a talk now](https://github.com/Shopee/shopee-react-knowledgeable/issues/new?assignees=&labels=talk&template=talk.md&title=%F0%9F%91%BE)
----
+
+**⚡️ lightning talk slot is open ⚡️  [submit a talk now](https://github.com/Shopee/shopee-react-knowledgeable/issues/new?assignees=&labels=talk&template=talk.md&title=%F0%9F%91%BE)**
 
 
 
