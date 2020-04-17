@@ -24,8 +24,9 @@ assignees: ""
 <details>
  <summary>Checklist</summary>
 
-- [ ] submitted request for cafe booking
-- [ ] venue confirmed & additional booking cancelled
-- [ ] updated cal inv information (content / venue)
+<!-- n/a for covid-19 - [ ] submit request for venue booking-->
+<!-- n/a for covid-19 - - [ ] confirm venue & cancel additional booking -->
+- [ ] create YouTube live stream
+- [ ] update cal inv information (content, venue, live stream url, zoom lounge invitation)
 
 </details>
