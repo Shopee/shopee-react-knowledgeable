@@ -1,7 +1,5 @@
 # Shopee React Knowledgeable
 
-👹 You may be looking for the Singapore chapter of [React Knowledgeable](https://reactknowledgeable.org/), the talks repo is [here](https://github.com/react-knowledgeable/talks). 👹
-
 ## About
 
 > To share knowledge and have fun.
