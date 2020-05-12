@@ -8,12 +8,16 @@ React Knowledgeable is a talk series focusing on technology, ideas, and experien
 
 We happen _every Friday in our last working hour_. This means 1800 nearly most Fridays, 1700 some Fridays. We skip public holidays or collisions with other company events that land on Fridays.
 
+### Interim period during the COVID-19 virus outbreak
+
+Addressing the concerns of the recent COVID-19 virus outbreak. At the current moment, we are no longer holding the physical podium due to the precautionary measures for COVID-19. All our public events are held via live stream in our [YouTube channel](https://www.youtube.com/reknowledgeable).
+
 ## Quick dials
 
 - [recent upcoming events and talks](https://github.com/Shopee/react-knowledgeable/issues)
 - [past talks](https://github.com/Shopee/shopee-react-knowledgeable/issues?q=is%3Aissue+label%3Atalk+is%3Aclosed)
 - [propose to speak](https://github.com/Shopee/react-knowledgeable/issues/new?assignees=&labels=&template=talk.md&title=)
-- [YouTube Channel](https://www.youtube.com/channel/UCswxnKjnWhnSR00wC1J8LZA)
+- [YouTube Channel](https://www.youtube.com/reknowledgeable)
 
 ## Speaking at `<RK />`
 
